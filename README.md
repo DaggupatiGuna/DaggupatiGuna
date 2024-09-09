@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guna Shekar Daggupati
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently Persuing my masters in Business analytics.
+- 🌱 I’m currently pursuing my masters in Business analytics.
 - 💞️ I’m looking to collaborate on projects related to Data analytics
 - 📫 How to reach me through linkedin 
 - 😄 Pronouns: he/him
